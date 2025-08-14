@@ -7,17 +7,17 @@ tags:
   - Jekyll
   - update
 ---
-# PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 
 Passionate and dedicated cybersecurity student with a growing foundation in network security, ethical hacking, and cyber defense. My fascination with digital forensics and system vulnerabilities has driven me to pursue a career in cybersecurity.
  I am actively building hands-on skills through labs, personal projects, and online certifications, with a strong desire to contribute to securing systems and data against modern cyber threats.
 
- # SKILLS
- - # Technical Tools & Concepts:
+ ## SKILLS
+ - ### Technical Tools & Concepts:
       - Kali Linux, Wireshark, Nmap, Gophish, Virtual Machines
-- # Cyber Defense:
+- ### Cyber Defense:
       - Vulnerability Scanning, Social Engineering Awareness, Phishing Simulations, Splunk, Wazuh
-- # Soft skills:
+- ### Soft skills:
        - Problem-Solving, Team Collaboration, Continuous Learning, Critical Thinking
 
 
