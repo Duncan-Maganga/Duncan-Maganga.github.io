@@ -1,6 +1,6 @@
 ---
 title: "MY RESUME!"
-date: 2019-04-18T15:34:30-04:00
+date: 2025-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -21,20 +21,25 @@ Passionate and dedicated cybersecurity student with a growing foundation in netw
 **PROJECT EXPERIENCE**
 
 **Penetration Testing – Proxmox Host (192.168.0.105)**
-**June 2025** | Personal Cybersecurity Lab
+**June 2025** | Personal home Lab
 * Performed black-box penetration testing against a Proxmox Virtual Environment interface.
 * Enumerated port 8006 with Nmap, confirmed service identity, and tested login endpoint using curl.
 * Launched brute-force attack with Hydra, tuning parameters to match JSON API failure patterns.
 * **Tools used:** Nmap, Hydra, Curl.
 
 
-#### C2 Panel Enumeration – Suspected Zeus Admin Panel (102.68.78.74)
-**June 2025** | Authorized External Assessment
+#### C2 Panel Enumeration – Suspected Zeus Admin Panel (102.68.78.14)
+**June 2025** | Personal home lab
 * Identified an open service on port 9090 believed to host a Zeus botnet C2 panel.
 * Verified traffic behavior with tcpdump, establishing successful connections using Netcat.
 * Attempted web-based access via curl, confirming stealth server behavior likely expecting malware communication.
 * Recommended enumeration of hidden paths, simulating bot callbacks, and behavioral analysis using Burp Suite.
 * **Tools used:** Nmap, Netcat, tcpdump, curl
+
+#### Phishing Simulation Lab – Gophish Setup & Campaign Deployment
+**April 2025** | Personal home Lab
+* Successfully deployed Gophish in a virtualized lab environment on Kali Linux.
+* Created a phishing campaign including email templates and landing pages to simulate real-world attacks.
 
 
 
