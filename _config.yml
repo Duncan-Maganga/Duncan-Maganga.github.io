@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Duncan Maganga"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/dun.png"
   bio    : "Committed to safeguarding data, systems, and networks while fostering a culture of cybersecurity awareness and resilience."
   links:
     - label: "Website"
