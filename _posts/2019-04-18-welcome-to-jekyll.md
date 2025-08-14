@@ -7,28 +7,46 @@ tags:
   - Jekyll
   - update
 ---
-## PROFESSIONAL SUMMARY
+**PROFESSIONAL SUMMARY**
 
 Passionate and dedicated cybersecurity student with a growing foundation in network security, ethical hacking, and cyber defense. My fascination with digital forensics and system vulnerabilities has driven me to pursue a career in cybersecurity.
  I am actively building hands-on skills through labs, personal projects, and online certifications, with a strong desire to contribute to securing systems and data against modern cyber threats.
 
- ## SKILLS
- - ### Technical Tools & Concepts:
-      - Kali Linux, Wireshark, Nmap, Gophish, Virtual Machines
-- ### Cyber Defense:
-      - Vulnerability Scanning, Social Engineering Awareness, Phishing Simulations, Splunk, Wazuh
-- ### Soft skills:
-       - Problem-Solving, Team Collaboration, Continuous Learning, Critical Thinking
+ **SKILLS**
+
+- **Technical Tools & Concepts:** Kali Linux, Wireshark, Nmap, Gophish, Virtual Machines
+- **Cyber Defense:** Vulnerability Scanning, Social Engineering Awareness, Phishing Simulations, Splunk, Wazuh
+- **Soft skills:** Problem-Solving, Team Collaboration, Continuous Learning, Critical Thinking
+
+**PROJECT EXPERIENCE**
+
+**Penetration Testing – Proxmox Host (192.168.0.105)**
+**June 2025** | Personal Cybersecurity Lab
+* Performed black-box penetration testing against a Proxmox Virtual Environment interface.
+* Enumerated port 8006 with Nmap, confirmed service identity, and tested login endpoint using curl.
+* Launched brute-force attack with Hydra, tuning parameters to match JSON API failure patterns.
+* **Tools used:** Nmap, Hydra, Curl.
+
+
+#### C2 Panel Enumeration – Suspected Zeus Admin Panel (102.68.78.74)
+**June 2025** | Authorized External Assessment
+* Identified an open service on port 9090 believed to host a Zeus botnet C2 panel.
+* Verified traffic behavior with tcpdump, establishing successful connections using Netcat.
+* Attempted web-based access via curl, confirming stealth server behavior likely expecting malware communication.
+* Recommended enumeration of hidden paths, simulating bot callbacks, and behavioral analysis using Burp Suite.
+* **Tools used:** Nmap, Netcat, tcpdump, curl
+
 
 
  
 
 
-To anything to add here
 
-add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+
+
+
+
 
 ```ruby
 def print_hi(name)
@@ -38,7 +56,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
