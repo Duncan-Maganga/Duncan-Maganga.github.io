@@ -12,6 +12,9 @@ Passionate and dedicated cybersecurity student with a growing foundation in netw
  I am actively building hands-on skills through labs, personal projects, and online certifications, with a strong desire to contribute to securing systems and data against modern cyber threats.
 
 
+ 
+
+
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
