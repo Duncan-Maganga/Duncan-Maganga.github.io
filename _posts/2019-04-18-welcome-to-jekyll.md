@@ -1,6 +1,6 @@
 ---
 title: "MY RESUME!"
-date: 2025-04-18T15:34:30-04:00
+date: 2025-08-18T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -49,9 +49,9 @@ Self-taught SOC analyst with experience in malware analysis, a foundation in thr
    * Ethical Hacking—CISCO                                                
    * Network Traffic Analysis with Wireshark—Coursera
      
-**Ongoing Progress and upcoming Development**
-    + CompTIA Security+
-    + PowerLearnProject—Advanced Python and Data structures
+**Ongoing Progress and Upcoming Development**  
+- CompTIA Security+  
+- PowerLearn Project — Advanced Python and Data Structures  
 
   **VOLUNTEER & COMMUNITY ACTIVITIES**
   
