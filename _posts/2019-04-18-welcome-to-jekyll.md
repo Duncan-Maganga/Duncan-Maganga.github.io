@@ -12,18 +12,16 @@ tags:
 Self-taught SOC analyst with experience in malware analysis, a foundation in threat analysis, and network monitoring. Worked with SIEM tools with over 50 projects and labs to analyze security threats and log analysis. I have conducted more than 100 assessment projects, identifying over 100 vulnerabilities.
 
 **TECHNICAL SKILLS**
+- **Expertise:** Web testing, Network testing, MITRE ATT&CK, Vulnerability disclosure & management, OWASP Top 10, Social engineering, OSINT Framework, Threat modeling, Risk analysis, etc.
 
-- **Expertise:** Web testing, Network testing, MITRE ATT&CK, Vulnerability disclosure & management, OWASP Top 10, Social engineering, OSINT Framework, Threat modeling, risk analysis, etc
+- **Tools:**
+  - **Reconnaissance & OSINT:** Shodan, Censys, Amass, Project Discovery Tools  
+  - **Threat Intelligence & Monitoring:** Maltego, URLScan, nslookup, VirusTotal  
+  - **Vulnerability Scanning & Management:** Nessus, ZAP  
+  - **Blue Team & Defensive Security:** Splunk, Elastic Stack (ELK), Sandbox  
+  - **Others:** Wireshark, Nmap, Telnet, Docker, Git, Burp Suite, Python, Bash scripting  
 
-       - **Tools:**
-  
-           - **Reconnaissance & OSINT:** Shodan, Censys, Amass, and Project Discovery Tools
-           - **Threat Intelligence & Monitoring:** Maltego, URLScan, nslookup, Virustotal
-           - **Vulnerability Scanning & Management:** Nessus, ZAP
-           - **Blue Team & Defensive Security:** Splunk, Elastic Stack (ELK), Sandbox
-           - **Others:** Wireshark, Nmap, Telnet, Docker, Git, Burp Suite, Python, Bash scripting
-  
-  - **Framework & Compliance:** GDPR, NIST
+- **Frameworks & Compliance:** GDPR, NIST
 
 **WORK EXPERIENCE**
 
@@ -52,15 +50,16 @@ Self-taught SOC analyst with experience in malware analysis, a foundation in thr
    * Network Traffic Analysis with Wireshark—Coursera
      
 **Ongoing Progress and upcoming Development**
-    * CompTIA Security+
-    * PowerLearnProject—Advanced Python and Data structures
+    + CompTIA Security+
+    + PowerLearnProject—Advanced Python and Data structures
 
   **VOLUNTEER & COMMUNITY ACTIVITIES**
   
-  **Online Instructor / Volunteer Educator**
-  **Google Meet, Teams, Zoom / March 2025 - Present**
-      * Designed and delivered cybersecurity awareness in phishing, threat intelligence, and good securit practise.
-      * Assisted with remote technical support by configuring proxies and troubleshooting connectivity issues via TeamViewer and Any Desk.
+ **Online Instructor / Volunteer Educator**  
+*Google Meet, Teams, Zoom / March 2025 - Present*  
+
+- Designed and delivered cybersecurity awareness in phishing, threat intelligence, and good securit practise.  
+- Assisted with remote technical support by configuring proxies and troubleshooting connectivity issues via TeamViewer and Any Desk.  
 
  **REFERENCES**
    * Available on request.
