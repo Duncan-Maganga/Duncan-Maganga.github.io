@@ -18,26 +18,41 @@ I conducted a vulnerability assessment on Damn Vulnerable Web Application (DVWA)
 Methodology:
 
 - Set up DVWA on Kali Linux with MariaDB and Apache2.  
+- Ran automated scans with OWASP ZAP and Nikto.  
+- Performed manual testing for SQL Injection and XSS.  
+- Mapped findings to the OWASP Top 10.  
 
-Ran automated scans with OWASP ZAP and Nikto.
+**Findings:**
 
-Performed manual testing for SQL Injection and XSS.
+- **SQL Injection (High Severity):** Allowed bypass of login authentication and retrieval of user credentials.  
+- **Reflected XSS (High Severity):** Enabled execution of malicious scripts via unsanitized user input.
+- **Clickjacking:** Managed to overlay fake buttons to trick users. 
 
-Mapped findings to the OWASP Top 10.
 
-Findings:
+**Mitigations for SQL Injection:**
 
-SQL Injection (High Severity): Allowed bypass of login authentication and retrieval of user credentials.
+- Use of Prepared Statements (with Parameterized Queries).  
+- Use of Properly Constructed Stored Procedures.  
+- Allow-list Input Validation. 
 
-Reflected XSS (High Severity): Enabled execution of malicious scripts via unsanitized user input.
+**Mitigations for Reflected for XSS:**
 
-Mitigations:
+- Use the auto-escaping template system.  
+- Implement content security policy.  
+- Use the X-XSS-Protection response header.  
+- Use the HTTPOnly flag.   
+- Use HTML escape before inserting untrusted data into an HTML element’s content.  
+- Use attribute escape before inserting untrusted data into HTML element content.  
+- Use JavaScript escape before inserting untrusted data into JavaScript data values.  
+- Use CSS escape and strictly validate before inserting untrusted data into HTML style property values.  
+- Use URL escape before inserting untrusted data into HTML UTL parameter values.
 
-Use parameterized queries / prepared statements.
+**Mitigations for Clickjacking:**
 
-Apply proper input validation.
+- Use secure response headers on X-Frame-Options and Content Security Policy.  
+- Use frame bursting as a secondary layer.  
+- Use Design-level defence, such as double-click confirmation, user interaction, and visual cues.   
 
-Implement Content Security Policy and secure headers.
 
 Full Report & Technical Details: [Link to GitHub repo]Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   
