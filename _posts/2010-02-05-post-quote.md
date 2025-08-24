@@ -1,5 +1,6 @@
 ---
-title: "Quote, lets try editing"
+title: "Web Application Vulnerability Assessment Report"
+
 categories:
   - Blog
 tags:
@@ -7,6 +8,37 @@ tags:
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> Project Title: Web Application Vulnerability Assessment (DVWA)
+Date: August 2025
+Skills Used: OWASP ZAP, SQLMap, Manual Testing, OWASP Top 10
+
+Overview:
+I conducted a vulnerability assessment on Damn Vulnerable Web Application (DVWA) to simulate real-world penetration testing in a controlled lab environment.
+
+Methodology:
+
+Set up DVWA on Kali Linux with MariaDB and Apache2.
+
+Ran automated scans with OWASP ZAP and Nikto.
+
+Performed manual testing for SQL Injection and XSS.
+
+Mapped findings to the OWASP Top 10.
+
+Findings:
+
+SQL Injection (High Severity): Allowed bypass of login authentication and retrieval of user credentials.
+
+Reflected XSS (High Severity): Enabled execution of malicious scripts via unsanitized user input.
+
+Mitigations:
+
+Use parameterized queries / prepared statements.
+
+Apply proper input validation.
+
+Implement Content Security Policy and secure headers.
+
+Full Report & Technical Details: [Link to GitHub repo]Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   
 > <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
