@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Post: Quote, lets try editing"
 categories:
   - Blog
 tags:
