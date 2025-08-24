@@ -8,9 +8,9 @@ tags:
   - quote
 ---
 
-> **Project Title:** Web Application Vulnerability Assessment (DVWA)
-**Date:** August 2025  
-**Skills Used:** OWASP ZAP, SQLMap, Manual Testing, OWASP Top 10  
+**Project Title:** Web Application Vulnerability Assessment (DVWA)  
+**Date:** August 2025    
+**Skills Used:** OWASP ZAP, SQLMap, Manual Testing, OWASP Top 10   
 
 ### Overview:
 I conducted a vulnerability assessment on Damn Vulnerable Web Application (DVWA) to simulate real-world penetration testing in a controlled lab environment.
