@@ -54,7 +54,7 @@ Methodology:
 - Use Design-level defence, such as double-click confirmation, user interaction, and visual cues.
 
 
-Check out my project on [GitHub](https://github.com/Duncan-Maganga/FUTURE_CS_001).
+Check out my project on [GitHub](https://github.com/Duncan-Maganga/FUTURE_CS_001/blob/main/README.md).
 
 
 
