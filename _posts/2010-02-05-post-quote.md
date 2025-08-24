@@ -51,7 +51,12 @@ Methodology:
 
 - Use secure response headers on X-Frame-Options and Content Security Policy.  
 - Use frame bursting as a secondary layer.  
-- Use Design-level defence, such as double-click confirmation, user interaction, and visual cues.   
+- Use Design-level defence, such as double-click confirmation, user interaction, and visual cues.
+
+
+Check out my project on [GitHub](https://github.com/Duncan-Maganga/FUTURE_CS_001).
+
+
 
 
 Full Report & Technical Details: [Link to GitHub repo]Only one thing is impossible for God: To find any sense in any copyright law on the planet.
