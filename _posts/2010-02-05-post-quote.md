@@ -59,6 +59,3 @@ Check out my project on [GitHub](https://github.com/Duncan-Maganga/FUTURE_CS_001
 
 
 
-Full Report & Technical Details: [Link to GitHub repo]Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-  
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
