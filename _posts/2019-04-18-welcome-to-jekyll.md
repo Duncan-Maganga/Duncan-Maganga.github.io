@@ -9,7 +9,7 @@ tags:
 ---
 **PROFESSIONAL SUMMARY**
 
-Self-taught SOC analyst with experience in malware analysis, a foundation in threat analysis, and network monitoring. Worked with SIEM tools with over 50 projects and labs to analyze security threats and log analysis. I have conducted more than 100 assessment projects, identifying over 100 vulnerabilities.
+I am a SOC analyst with experience in malware analysis, a foundation in threat analysis, and network monitoring. Worked with SIEM tools with over 50 projects and labs to analyze security threats and log analysis. I have conducted more than 100 assessment projects, identifying over 100 vulnerabilities. 
 
 **TECHNICAL SKILLS**
 - **Expertise:** Web testing, Network testing, MITRE ATT&CK, Vulnerability disclosure & management, OWASP Top 10, Social engineering, OSINT Framework, Threat modeling, Risk analysis, etc.
@@ -25,33 +25,26 @@ Self-taught SOC analyst with experience in malware analysis, a foundation in thr
 
 **WORK EXPERIENCE**
 
-**SOC Analyst Intern - Threat Intelligence**
+**SOC Analyst**
 
-**Future Interns / August 2025 - Present**
-  * Automated scripts, frameworks, and Burp Suite plugin development
-  * Evaluated over 50+ vulnerability reports to determine validity and risk for private bug bounty programs.
-  * Monitor and access data breach sources to identify potential leaks involving client data, ensuring proactive security measures and        incident response.
-  * Collaborated with DevOps teams to ensure successful production deployment.
-  * End-to-end collaboration with clients and engineers to define security needs and perform Vulnerability
-  * Assessment and Penetration Testing (VAPT)
-  * Gained knowledge of encryption keys, initialization vectors (IVs), and padding.
-  * Identified suspicious activities such as failed logins, unusual IP addresses, and malware alerts.
-  * Created an incident response report outlining the threat, impact, and suggested next steps.
-  * Analyzed HTTP requests, session management, and routing in Flask (Python) and Express (Node.js).
-  * Gained experience in Postman and cURL to test API endpoints, validate encryption/decryption, and debug transfer issues.
-  * Applied best practices for encrypting data at rest and in transit using TLS/SSL and VPNs.
+**Future / June 2025 - August 2025**
+
+* Designed and deployed a phishing simulation campaign using GoPhish, automating workflows through webhooks to test and improve security awareness among workers and stakeholders by 25%, Git.  
+* Conducted Zeus C2 threat analysis using MITRE ATT&CK framework, Exploit-DB, and VirusTotal, enhancing detection and response capabilities against malware threats.  
+* End-to-end collaboration with clients and engineers to define security needs and perform Vulnerability Assessment and Penetration Testing (VAPT).  
+* Implemented secure encryption practices by managing encryption keys, key handling, and padding using TLS/SSL and VPNs, which increased the communication security by 30%.  
+* Identified suspicious activities such as failed logins, unusual IP addresses, and malware alerts leading to security awareness by 15%.  
+* Created incident response reports outlining the threat, impact, and suggested next steps, which increased overall security performance by 35%.  
+* Hands-on experience in automating scripts, frameworks, and Burp Suite plugin development, decreasing the time used to run the scans by 10%.  
+* Analyzed HTTP requests, session management, and routing in Flask (Python) and Express (Node.js), and tested them with Postman and curl, making sure API endpoints are safe.  
 
 **EDUCATION**
    * BSc in Applied Statistics—Maseno University
 
-**CERTIFICATIONS**                                                         
-   * Introduction to Cybersecurity—CISCO                                  
+**CERTIFICATIONS**                                                                                           
    * Ethical Hacking—CISCO                                                
    * Network Traffic Analysis with Wireshark—Coursera
-     
-**Ongoing Progress and Upcoming Development**  
-- CompTIA Security+  
-- PowerLearn Project — Advanced Python and Data Structures  
+   * Advanced Python and Data Structures - PowerLearn Project  
 
   **VOLUNTEER & COMMUNITY ACTIVITIES**
   
@@ -61,8 +54,7 @@ Self-taught SOC analyst with experience in malware analysis, a foundation in thr
 - Designed and delivered cybersecurity awareness in phishing, threat intelligence, and good securit practise.  
 - Assisted with remote technical support by configuring proxies and troubleshooting connectivity issues via TeamViewer and Any Desk.  
 
- **REFERENCES**
-   * Available on request.
+
 
 
 
