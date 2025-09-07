@@ -286,6 +286,14 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('back-btn').addEventListener('click', function() {
         showSection(currentSection === 'detail-view' ? 'home' : currentSection);
     });
+
+    // this is new code I have added
+    document.getElementById('contact-btn-2').addEventListener('click', function() {
+     // Open default mail client
+      window.location.href = "mailto:duncanmaganga10@gmail.com";
+     // Optional: also navigate to contact section
+      showSection('contact');
+    });
     
     // View buttons (using event delegation for dynamically created elements)
     document.addEventListener('click', function(e) {
