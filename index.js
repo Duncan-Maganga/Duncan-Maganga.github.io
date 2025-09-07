@@ -274,13 +274,13 @@ document.addEventListener('DOMContentLoaded', function() {
         showSection('projects');
     });
     
-    document.getElementById('contact-btn').addEventListener('click', function() {
-        showSection('contact');
-    });
+    //document.getElementById('contact-btn').addEventListener('click', function() {
+      //  showSection('contact');
+    //});
     
     //document.getElementById('contact-btn-2').addEventListener('click', function() {
-      //  showSection('contact');
-   // });
+        //showSection('contact');
+    //});
     
     // Back button
     document.getElementById('back-btn').addEventListener('click', function() {
@@ -289,8 +289,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // this is new code I have added
     document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('contact-btn-2').addEventListener('click', function() {
-        window.location.href = "mailto:duncanmaganga10@gmail.com";
+        document.getElementById('contact-btn-2').addEventListener('click', function() {
+            window.location.href = "mailto:duncanmaganga10@gmail.com";
         //showSection('contact');
     });
 });
