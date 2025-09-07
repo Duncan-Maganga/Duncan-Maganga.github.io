@@ -278,9 +278,9 @@ document.addEventListener('DOMContentLoaded', function() {
         showSection('contact');
     });
     
-    document.getElementById('contact-btn-2').addEventListener('click', function() {
+   // document.getElementById('contact-btn-2').addEventListener('click', function() {
         showSection('contact');
-    });
+   // });
     
     // Back button
     document.getElementById('back-btn').addEventListener('click', function() {
@@ -288,12 +288,13 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // this is new code I have added
+    document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('contact-btn-2').addEventListener('click', function() {
-     // Open default mail client
-      window.location.href = "mailto:duncanmaganga10@gmail.com";
-     // Optional: also navigate to contact section
-      showSection('contact');
+        window.location.href = "mailto:duncanmaganga10@gmail.com";
+        showSection('contact');
     });
+});
+
     
     // View buttons (using event delegation for dynamically created elements)
     document.addEventListener('click', function(e) {
