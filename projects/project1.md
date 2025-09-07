@@ -16,7 +16,7 @@ Modern businesses rely heavily on email communication, making employees the firs
 - **Builds a Security Culture** – Encourages employees to pause, think, and verify before interacting with suspicious emails.  
 - **Improves Incident Response** – Trains staff on how to recognize and report phishing attempts quickly.  
 - **Supports Compliance** – Demonstrates proactive risk management for regulations such as HIPAA, and GDPR.  
-- **Reduces Business Impact** – Each trained employee lowers the chances of successful data breaches, financial fraud, or reputational damage.  
+- **Reduces Business Impact** – Each trained employee lowers the chances of successful data breaches, financial fraud, or reputational damage.   
 
 
 ## Common Mistakes Organizations Make. 
@@ -31,7 +31,6 @@ While phishing simulations are powerful, organizations often reduce their effect
 - **Shaming or Punishing Employees** – Creates fear and discourages honest reporting of real phishing attempts.  
 - **Recycling the Same Templates** – Makes simulations predictable, unlike real-world phishing campaigns.  
 - **Treating It as a One time Exercise** – Phishing tactics evolve constantly, so defenses must evolve too.  
-
 
 
 ## Business Impact Insights. 
@@ -51,9 +50,4 @@ This project demonstrated how phishing simulations can reveal both technical and
 In today’s threat landscape, phishing simulations are not optional. They are a business necessity to protect data, maintain customer trust, and ensure long-term resilience.   
 
 
-
-
-
-
-
-View the full project on GitHub
+*View the full project on GitHub*

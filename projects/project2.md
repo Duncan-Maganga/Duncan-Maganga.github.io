@@ -27,5 +27,4 @@ This project demonstrated how easily attackers can exploit poorly secured applic
 - Build stronger customer trust by showing commitment to security of there data.  
 
 
-
-View the full project on GitHub
+*View the full project on GitHub*

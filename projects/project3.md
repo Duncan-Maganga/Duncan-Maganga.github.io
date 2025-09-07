@@ -22,7 +22,7 @@ The purpose of this project was to provide a reliable, secure, and user-friendly
 - **Key Management:** Utilized master keys to wrap randomly generated Data Encryption Keys (DEKs) for each file.  
 - **Global Access Testing:** Used Ngrok to simulate secure remote access.  
 - **API and Integrity Testing:** Tested endpoints with Postman and curl, and verified file integrity using SHA-256 checksums.  
-- **Architecture:** Designed using the CIA triad principles—Confidentiality, Integrity, and Availability.  
+- **Architecture:** Designed using the CIA triad principles—Confidentiality, Integrity, and Availability.   
 
 
 ## Importance to Modern Business.  
@@ -36,7 +36,6 @@ In today’s environment, data is a critical business asset, and unauthorized ac
 - Reduce the risk of insider threats and cyberattacks targeting file repositories.  
 
 
-
 ## Remediations.  
 
 
@@ -47,7 +46,7 @@ To mitigate these risks, the following measures are recommended:
 - Conduct continuous security testing including penetration testing, fuzzing, and automated vulnerability scans.  
 - Enforce file type validation, size limits, and malware scanning on uploads.  
 - Use HTTPS/TLS for all transmissions and secure backup procedures for encrypted files.  
-- Maintain detailed audit logs for uploads, downloads, and tampering for forensic and compliance purposes.  
+- Maintain detailed audit logs for uploads, downloads, and tampering for forensic and compliance purposes.    
 
 
 ## Common Mistakes Organizations Make. 
@@ -58,7 +57,7 @@ To mitigate these risks, the following measures are recommended:
 - **Insufficient Testing:** Failing to validate file integrity, encryption, and API security.  
 - **Ignoring Large File Risks:** Not enforcing file size limits or rate limiting, which can lead to DoS attacks.  
 - **Unsecured Transmission:** Transferring files over unsecured channels without HTTPS/TLS.  
-- **Overlooking File Validation:** Allowing malicious files to be uploaded without scanning.  
+- **Overlooking File Validation:** Allowing malicious files to be uploaded without scanning.    
 
 
 ## Conclusion. 
@@ -68,4 +67,4 @@ The Secure File Sharing System successfully demonstrates a practical and secure 
 
 
 
-View the full project on GitHub
+*View the full project on GitHub*
