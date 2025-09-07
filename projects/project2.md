@@ -1,41 +1,31 @@
 # Web Application Vulnerability Assessment Report
 
-![Project Screenshot](../images/project2.png)
+## About the Project:   
 
-## Overview
-A comprehensive vulnerability assessment of a web application, identifying security weaknesses and providing remediation recommendations.
+This project focused on assessing the security of a deliberately vulnerable web application (DVWA) to simulate how real attackers exploit weaknesses in web applications.  
 
-## Assessment Scope
-- Authentication and authorization mechanisms
-- Input validation and sanitization
-- Session management
-- Data protection and encryption
-- Error handling and logging
 
-## Tools Used
-- OWASP ZAP
-- Burp Suite
-- Nmap
-- Custom scripts
+## Purpose:  
 
-## Key Findings
-- SQL injection vulnerabilities in search functionality
-- Cross-site scripting (XSS) in user input fields
-- Insecure direct object references
-- Missing security headers
+To identify common vulnerabilities, understand their potential business impact, and recommend effective mitigations that strengthen web application security.  
 
-## Recommendations
-- Implement parameterized queries to prevent SQL injection
-- Add input validation and output encoding
-- Implement proper access control checks
-- Add security headers (CSP, X-Frame-Options, etc.)
 
-## Impact
-The assessment helped the organization identify and fix critical vulnerabilities before they could be exploited by malicious actors.
+## Methodology:  
 
-## Repository
-[GitHub Repository](https://github.com/Duncan-Maganga/FUTURE_CS_001)
+- I Set up DVWA in a controlled lab environment.  
+- Used OWASP ZAP, SQLMap, Nikto, and manual testing to identify flaws.  
+- Exploited vulnerabilities including SQL Injection, Cross-Site Scripting (XSS), and Clickjacking.    
+- Mapped findings to the OWASP Top 10 for industry relevance.  
+
+## Impact for Modern Business:  
+
+This project demonstrated how easily attackers can exploit poorly secured applications, but also how proper mitigations (input validation, prepared statements, CSP, secure headers) can:  
+
+- Protect sensitive customer and business data.  
+- Ensure compliance with regulations like GDPR, and HIPAA.  
+- Prevent fraud, downtime, and reputational loss of the company.  
+- Build stronger customer trust by showing commitment to security of there data.  
 
 
 
-
+View the full project on GitHub
