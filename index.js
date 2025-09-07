@@ -278,8 +278,8 @@ document.addEventListener('DOMContentLoaded', function() {
         showSection('contact');
     });
     
-   // document.getElementById('contact-btn-2').addEventListener('click', function() {
-        showSection('contact');
+    //document.getElementById('contact-btn-2').addEventListener('click', function() {
+      //  showSection('contact');
    // });
     
     // Back button
@@ -291,7 +291,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('contact-btn-2').addEventListener('click', function() {
         window.location.href = "mailto:duncanmaganga10@gmail.com";
-        showSection('contact');
+        //showSection('contact');
     });
 });
 
