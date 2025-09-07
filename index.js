@@ -55,9 +55,9 @@ startMatrixAnimation();
 // Projects and Writeups data
 const projects = [
     { title: "Project 1", description: "Network vulnerability scanner with real-time reporting.", link: "https://github.com/Duncan-Maganga/project1", markdown: "projects/project1.md" },
-   // { title: "Project 2", description: "Cloud security assessment tool for AWS and Azure environments.", link: "https://github.com/Duncan-Maganga/project2", markdown: "project2.md" },
-   // { title: "Project 3", description: "Designed and executed a phishing campaign to demonstrate how attackers trick users and how organizations can strengthen defenses through awareness training and simulations.", link: "https://github.com/Duncan-Maganga/project3", markdown: "project3.md" },
-    { title: "Project 4", description: "Designed and executed a phishing campaign to demonstrate how attackers trick users and how organizations can strengthen defenses through awareness training and simulations.", link: "https://github.com/Duncan-Maganga/Phishing-Simulation-with-GoPhish", markdown: "projects/project1.md" },
+    { title: "Web Application Vulnerability Assessment Report", description: "I evaluated a web application for security weaknesses and provided recommendations to fix them and improve its protection.", link: "https://github.com/Duncan-Maganga/FUTURE_CS_001", markdown: "projects/project2.md" },
+    { title: "Project 3", description: "Designed and executed a phishing campaign to demonstrate how attackers trick users and how organizations can strengthen defenses through awareness training and simulations.", link: "https://github.com/Duncan-Maganga/project3", markdown: "project3.md" },
+    { title: "Phishing Simulation with Gophish", description: "Designed and executed a phishing campaign to demonstrate how attackers trick users and how organizations can strengthen defenses through awareness training and simulations.", link: "https://github.com/Duncan-Maganga/Phishing-Simulation-with-GoPhish", markdown: "projects/project1.md" },
     { title: "Project 5", description: "Built an automated vulnerability scanner with Python.", link: "https://github.com/Duncan-MagangaA", markdown: "project5.md" },
     { title: "Project 6", description: "Configured SIEM rules for real-time incident detection.", link: "https://github.com/Duncan-Magangab", markdown: "project6.md" },
     { title: "Project 7", description: "Created a malware sandbox for safe binary execution.", link: "https://github.com/Duncan-MagangAB", markdown: "project7.md" },
