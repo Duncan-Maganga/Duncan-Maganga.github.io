@@ -278,19 +278,19 @@ document.addEventListener('DOMContentLoaded', function() {
         showSection('contact');
     });
     
-    document.getElementById('contact-btn-2').addEventListener('click', function() {
-        showSection('contact');
-    });
+    //document.getElementById('contact-btn-2').addEventListener('click', function() {
+        //showSection('contact');
+    //});
     
     // Back button
-    document.getElementById('back-btn').addEventListener('click', function() {
-        showSection(currentSection === 'detail-view' ? 'home' : currentSection);
-    });
+    //document.getElementById('back-btn').addEventListener('click', function() {
+        //showSection(currentSection === 'detail-view' ? 'home' : currentSection);
+    //});
 
     // this is new code I have added
     document.addEventListener('DOMContentLoaded', function() {
-        document.getElementById('contact-btn-2').addEventListener('click', function() {
-            window.location.href = "mailto:duncanmaganga10@gmail.com";
+    document.getElementById('contact-btn-2').addEventListener('click', function() {
+        window.location.href = "mailto:duncanmaganga10@gmail.com";
         //showSection('contact');
     });
 });
