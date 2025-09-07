@@ -274,13 +274,13 @@ document.addEventListener('DOMContentLoaded', function() {
         showSection('projects');
     });
     
-    //document.getElementById('contact-btn').addEventListener('click', function() {
-      //  showSection('contact');
-    //});
+    document.getElementById('contact-btn').addEventListener('click', function() {
+        showSection('contact');
+    });
     
-    //document.getElementById('contact-btn-2').addEventListener('click', function() {
-        //showSection('contact');
-    //});
+    document.getElementById('contact-btn-2').addEventListener('click', function() {
+        showSection('contact');
+    });
     
     // Back button
     document.getElementById('back-btn').addEventListener('click', function() {
