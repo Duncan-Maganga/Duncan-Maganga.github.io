@@ -156,7 +156,13 @@ const writeups = [
     //{ title: "Writeup 47", description: "Privilege abuse in cloud-native applications.", link: "https://github.com/Duncan-Maganw", markdown: "writeup47.md" },
     //{ title: "Writeup 48", description: "Exploring social engineering attack techniques.", link: "https://github.com/Duncan-MaganW", markdown: "writeup48.md" },
     //{ title: "Writeup 49", description: "API security testing and common pitfalls.", link: "https://github.com/Duncan-Maganx", markdown: "writeup49.md" },
-    //{ title: "Writeup 50", description: "Future of cybersecurity and AI-driven defense.", link: "https://github.com/Duncan-MaganX", markdown: "writeup50.md" }
+    {
+  title: "Education Management Policy.", 
+  description: "I developed a security policy framework for ACME Healthcare to address critical vulnerabilities found in an audit, strengthening access control, encryption, patching, and user awareness.", 
+  link: "https://github.com/Duncan-Maganga/ACME-Healthcare-Security-Audit-Project./edit/main/README.md", 
+  markdown: "writeups/writeup50.md" 
+    }
+ 
 ];
 
 // SPA Navigation
