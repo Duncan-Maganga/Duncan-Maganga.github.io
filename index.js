@@ -103,7 +103,12 @@ const projects = [
     //{ title: "Project 47", description: "Investigated ransomware encryption techniques.", link: "https://github.com/Duncan-MaganV", markdown: "project47.md" },
    // { title: "Project 48", description: "Tested secure file transfer with encryption layers.", link: "https://github.com/Duncan-Maganw", markdown: "project48.md" },
    // { title: "Project 49", description: "Explored AI-assisted phishing detection models.", link: "https://github.com/Duncan-MaganW", markdown: "project49.md" },
-    //{ title: "Project 50", description: "Researched the future of SOC automation with AI.", link: "https://github.com/Duncan-Maganx", markdown: "project50.md" }
+    {
+  title: "Education Management Policy.", 
+  description: "I developed a security policy framework for ACME Healthcare to address critical vulnerabilities found in an audit, strengthening access control, encryption, patching, and user awareness.", 
+  link: "https://github.com/Duncan-Maganga/ACME-Healthcare-Security-Audit-Project./edit/main/README.md", 
+  markdown: "projects/project50.md" 
+    } 
 ];
 
 const writeups = [
@@ -156,12 +161,12 @@ const writeups = [
     //{ title: "Writeup 47", description: "Privilege abuse in cloud-native applications.", link: "https://github.com/Duncan-Maganw", markdown: "writeup47.md" },
     //{ title: "Writeup 48", description: "Exploring social engineering attack techniques.", link: "https://github.com/Duncan-MaganW", markdown: "writeup48.md" },
     //{ title: "Writeup 49", description: "API security testing and common pitfalls.", link: "https://github.com/Duncan-Maganx", markdown: "writeup49.md" },
-    {
-  title: "Education Management Policy.", 
-  description: "I developed a security policy framework for ACME Healthcare to address critical vulnerabilities found in an audit, strengthening access control, encryption, patching, and user awareness.", 
-  link: "https://github.com/Duncan-Maganga/ACME-Healthcare-Security-Audit-Project./edit/main/README.md", 
-  markdown: "writeups/writeup50.md" 
-    }
+    //{
+  //title: "Education Management Policy.", 
+  //description: "I developed a security policy framework for ACME Healthcare to address critical vulnerabilities found in an audit, strengthening access control, encryption, patching, and user awareness.", 
+  //link: "https://github.com/Duncan-Maganga/ACME-Healthcare-Security-Audit-Project./edit/main/README.md", 
+  //markdown: "writeups/writeup50.md" 
+    //}
  
 ];
 
