@@ -112,10 +112,14 @@ const projects = [
 ];
 
 const writeups = [
-    { title: "Writeup 1", description: "Analysis of recent ransomware attack patterns and defense strategies.", link: "https://github.com/Duncan-Maganga/writeup1", markdown: "writeups/writeup1.md" },
-    { title: "Writeup 2", description: "Comprehensive guide to implementing zero-trust architecture.", link: "https://github.com/Duncan-Maganga/writeup2", markdown: "writeups/writeup2.md" },
-    { title: "Writeup 3", description: "Exploring phishing attack simulations and mitigation strategies.", link: "https://github.com/Duncan-Magangaa", markdown: "writeup3.md" },
-    { title: "Writeup 4", description: "SQL injection case study with real-world exploitation patterns.", link: "https://github.com/Duncan-MagangaA", markdown: "writeup4.md" },
+    { title: "Server Message Block (SMB)", 
+      description: "A write-up on the Server Message Block (SMB) protocol, explaining how it works, its role in file sharing, key security concerns, and why it's vital for network communication.",
+      link: "https://github.com/Duncan-Maganga/writeup1", markdown: "writeups/writeup1.md" },
+    { title: "Suricata", 
+      description: "This write-up shows Suricata as an open-source IDS/IPS that detects and blocks threats in real time while providing detailed logging and deep packet inspection.",
+      link: "https://github.com/Duncan-Maganga/writeup2", markdown: "writeups/writeup2.md" },
+    //{ title: "Writeup 3", description: "Exploring phishing attack simulations and mitigation strategies.", link: "https://github.com/Duncan-Magangaa", markdown: "writeup3.md" },
+    //{ title: "Writeup 4", description: "SQL injection case study with real-world exploitation patterns.", link: "https://github.com/Duncan-MagangaA", markdown: "writeup4.md" },
     //{ title: "Writeup 5", description: "Cross-site scripting (XSS) vulnerability testing in web apps.", link: "https://github.com/Duncan-Magangb", markdown: "writeup5.md" },
     //{ title: "Writeup 6", description: "Reverse engineering malware samples in a sandboxed lab.", link: "https://github.com/Duncan-MagangB", markdown: "writeup6.md" },
     //{ title: "Writeup 7", description: "Investigating brute-force attacks and password cracking tools.", link: "https://github.com/Duncan-Magangc", markdown: "writeup7.md" },
@@ -160,12 +164,14 @@ const writeups = [
     //{ title: "Writeup 46", description: "Threat modeling for enterprise applications.", link: "https://github.com/Duncan-MaganV", markdown: "writeup46.md" },
     //{ title: "Writeup 47", description: "Privilege abuse in cloud-native applications.", link: "https://github.com/Duncan-Maganw", markdown: "writeup47.md" },
     //{ title: "Writeup 48", description: "Exploring social engineering attack techniques.", link: "https://github.com/Duncan-MaganW", markdown: "writeup48.md" },
-    //{ title: "Writeup 49", description: "API security testing and common pitfalls.", link: "https://github.com/Duncan-Maganx", markdown: "writeup49.md" },
+    { title: "Forensic Information Gathering Summary", 
+      description: "This write-up explains how to gather volatile data and analyze logs after a security incident, providing steps to create reports, capture system details, and preserve evidence.", 
+      link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/writeups/writeup49.md", markdown: "writeups/writeup49.md" },
     //{
-  //title: "Education Management Policy.", 
-  //description: "I developed a security policy framework for ACME Healthcare to address critical vulnerabilities found in an audit, strengthening access control, encryption, patching, and user awareness.", 
-  //link: "https://github.com/Duncan-Maganga/ACME-Healthcare-Security-Audit-Project./edit/main/README.md", 
-  //markdown: "writeups/writeup50.md" 
+    //{title: "Education Management Policy.", 
+     //description: "I developed a security policy framework for ACME Healthcare to address critical vulnerabilities found in an audit, strengthening access control, encryption, patching, and user awareness.", 
+     //link: "https://github.com/Duncan-Maganga/ACME-Healthcare-Security-Audit-Project./edit/main/README.md", 
+     //markdown: "writeups/writeup50.md" 
     //}
  
 ];
