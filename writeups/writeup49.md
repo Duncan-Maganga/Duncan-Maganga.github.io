@@ -54,6 +54,6 @@ When analysing logs give more attention to **auth.log** as these logs the system
 
 - 2.1 Use the **cat** command and pipe it to **less** command. Press **spacebar** to scroll down by a page or press **Enter** to scroll down by a single line. Type **q** to quit.  
 
-![sreenshot](../images/images49/authlog.png). 
+![sreenshot](../imagesw/images49/authlog.png). 
 
 
