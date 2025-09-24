@@ -43,26 +43,36 @@ responsible for cybersecurity governance.
 - **EDU-03** Maintain a technology platform (such as an LMS) for tracking cybersecurity related education, training completions, and certifications for workforce members.    
 - **EDU-04**  Ensure that all workforce members (including engineers, developers, privileged users, and contractors) regularly receive role-specific cybersecurity education on access control, secure data handling, and system use.  
 - **EDU-05**  Ensure that all workforce members regularly receive cybersecurity awareness training that is appropriate to their roles and responsibilities, including:  
+
     1. Recognizing phishing attempts and social engineering.  
     2. Reporting security incidents promptly.  
     3. Avoiding use of company devices for personal activity.  
+
 - **EDU-06**  Ensure that the cybersecurity education program includes training on securely authenticating to information systems, including:  
+
     1. Use of strong passwords and passphrases.  
     2. Multi-factor authentication (MFA).  
     3. Proper logout and lock-screen practices.  
+
 - **EDU-07**  Ensure that the cybersecurity education program includes training on securely communicating over untrusted networks, including: 
+
     1. Prohibition of unencrypted email for sensitive data.  
     2. Proper use of VPNs for remote work.  
     3. Secure wireless connectivity using WPA2/WPA3, avoiding WEP.  
+
 - **EDU-08**  Ensure that the cybersecurity education program includes training on securely handling organizational data, including:  
+
     1. Encrypting sensitive files on devices.  
     2. Protecting patient records in compliance with HIPAA and other regulations.  
     3. Risks of sending or storing unencrypted sensitive data on personal or mobile devices.  
+
 - **EDU-09**  Ensure that the cybersecurity education program includes instruction on patching, updating, and maintaining secure device configurations.  
 - **EDU-10**  Ensure that the cybersecurity education program includes physical security practices, such as:  
+
     1. Not leaving devices unattended while logged into company systems.  
     2. Locking devices when not in use.  
-    3. Preventing unauthorized individuals from accessing sensitive areas or systems.   
+    3. Preventing unauthorized individuals from accessing sensitive areas or systems.  
+     
 
 ## Policy Sanctions.  
 
