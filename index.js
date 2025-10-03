@@ -165,7 +165,7 @@ const writeups = [
     //{ title: "Writeup 47", description: "Privilege abuse in cloud-native applications.", link: "https://github.com/Duncan-Maganw", markdown: "writeup47.md" },
     { title: "Executive Overview of APT34 (OilRig) Threat Report", 
       description: "This report analyzes APT34 (OilRig), an Iranian state-sponsored cyber espionage group, detailing its tactics, motives, and defenses organizations can adopt to reduce risk.", 
-      link: "https://github.com/Duncan-MaganW", markdown: "writeups/writeup48.md" },
+      link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/writeups/writeup48.md", markdown: "writeups/writeup48.md" },
     { title: "Forensic Information Gathering Summary", 
       description: "This write-up explains how to gather volatile data and analyze logs after a security incident, providing steps to create reports, capture system details, and preserve evidence.", 
       link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/writeups/writeup49.md", markdown: "writeups/writeup49.md" },
