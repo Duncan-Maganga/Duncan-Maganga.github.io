@@ -171,7 +171,7 @@ const writeups = [
       link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/writeups/writeup49.md", markdown: "writeups/writeup49.md" },
     {title: "Incident Response Simulation Report.", 
      description: "Analyzed SIEM logs to detect and classify incidents, identifying suspicious users and malware. Prioritized threats by severity for remediation.", 
-     link: "https://github.com/Duncan-Maganga/Incident-Response-Simulation-Report", 
+     link: "https://github.com/Duncan-Maganga/Incident-Response-Simulation-Report.", 
      markdown: "writeups/writeup50.md"
     }
  
