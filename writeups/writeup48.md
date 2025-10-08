@@ -10,14 +10,14 @@ The purpose of this report is to provide a comprehensive and professional assess
 
 ### Tools Used.  
 
--CyberScoop: https://www.cyberscoop.com/. 
--Dark Reading: https://www.darkreading.com/. 
--The CyberWire: https://thecyberwire.com/. 
--SecureWorks - https://www.secureworks.com/. 
--ThreatConnect - https://www.threatconnect.com. 
--Kaspersky Lab: https://www.kaspersky.com/. 
--Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence.     
--MITRE ATT&CK: https://attack.mitre.org/. 
+-CyberScoop: https://www.cyberscoop.com/.   
+-Dark Reading: https://www.darkreading.com/.   
+-The CyberWire: https://thecyberwire.com/.   
+-SecureWorks: https://www.secureworks.com/.   
+-ThreatConnect: https://www.threatconnect.com.   
+-Kaspersky Lab: https://www.kaspersky.com/.    
+-Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence.       
+-MITRE ATT&CK: https://attack.mitre.org/.   
 
 ### History and Origin. 
 
