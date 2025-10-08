@@ -86,4 +86,4 @@ involve illegal activities. These sanctions emphasize the critical importance of
 cybersecurity, the individual's role in protecting our digital assets, and the potential risks associated with policy violations. Enforcement will be consistent and impartial, with the severity of the action corresponding directly to the seriousness of the breach.    
 
 
-*View full project on github*
+*The end*

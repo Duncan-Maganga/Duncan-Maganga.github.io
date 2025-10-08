@@ -106,7 +106,7 @@ const projects = [
     {
   title: "Education Management Policy.", 
   description: "I developed a security policy framework for ACME Healthcare to address critical vulnerabilities found in an audit, strengthening access control, encryption, patching, and user awareness.", 
-  link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/projects/project50.md", 
+  //link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/projects/project50.md", 
   markdown: "projects/project50.md" 
     } 
 ];
