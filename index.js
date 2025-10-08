@@ -106,18 +106,18 @@ const projects = [
     {
   title: "Education Management Policy.", 
   description: "I developed a security policy framework for ACME Healthcare to address critical vulnerabilities found in an audit, strengthening access control, encryption, patching, and user awareness.", 
-  link: "https://github.com/Duncan-Maganga/ACME-Healthcare-Security-Audit-Project./edit/main/README.md", 
+  link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/projects/project50.md", 
   markdown: "projects/project50.md" 
     } 
 ];
 
 const writeups = [
-    { title: "Server Message Block (SMB)", 
-      description: "A write-up on the Server Message Block (SMB) protocol, explaining how it works, its role in file sharing, key security concerns, and why it's vital for network communication.",
-      link: "https://github.com/Duncan-Maganga/writeup1", markdown: "writeups/writeup1.md" },
-    { title: "Suricata", 
-      description: "This write-up shows Suricata as an open-source IDS/IPS that detects and blocks threats in real time while providing detailed logging and deep packet inspection.",
-      link: "https://github.com/Duncan-Maganga/writeup2", markdown: "writeups/writeup2.md" },
+    //{ title: "Server Message Block (SMB)", 
+      //description: "A write-up on the Server Message Block (SMB) protocol, explaining how it works, its role in file sharing, key security concerns, and why it's vital for network communication.",
+      //link: "https://github.com/Duncan-Maganga/writeup1", markdown: "writeups/writeup1.md" },
+    //{ title: "Suricata", 
+      //description: "This write-up shows Suricata as an open-source IDS/IPS that detects and blocks threats in real time while providing detailed logging and deep packet inspection.",
+      //link: "https://github.com/Duncan-Maganga/writeup2", markdown: "writeups/writeup2.md" },
     //{ title: "Writeup 3", description: "Exploring phishing attack simulations and mitigation strategies.", link: "https://github.com/Duncan-Magangaa", markdown: "writeup3.md" },
     //{ title: "Writeup 4", description: "SQL injection case study with real-world exploitation patterns.", link: "https://github.com/Duncan-MagangaA", markdown: "writeup4.md" },
     //{ title: "Writeup 5", description: "Cross-site scripting (XSS) vulnerability testing in web apps.", link: "https://github.com/Duncan-Magangb", markdown: "writeup5.md" },

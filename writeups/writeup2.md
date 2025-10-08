@@ -1,6 +1,5 @@
 # Suricata Lab Demo
 
-![Screenshot](../images2/camp.png)
 
 
 ## Introduction
