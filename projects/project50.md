@@ -77,13 +77,7 @@ responsible for cybersecurity governance.
 ## Policy Sanctions.  
 
 
-Non-compliance with this policy may result in disciplinary action in line with our
-corporation's human resources procedures. Consequences may range from mandatory
-refresher training and written warnings to temporary suspension of remote access
-privileges and, in severe cases, termination of employment or contractual obligations.
-Individuals could be subject to legal consequences under applicable laws if violations
-involve illegal activities. These sanctions emphasize the critical importance of
-cybersecurity, the individual's role in protecting our digital assets, and the potential risks associated with policy violations. Enforcement will be consistent and impartial, with the severity of the action corresponding directly to the seriousness of the breach.    
+Non-compliance with this policy may result in disciplinary action in line with our corporation's human resources procedures. Consequences may range from mandatory refresher training and written warnings to temporary suspension of remote access privileges and, in severe cases, termination of employment or contractual obligations. Individuals could be subject to legal consequences under applicable laws if violations involve illegal activities. These sanctions emphasize the critical importance of cybersecurity, the individual's role in protecting our digital assets, and the potential risks associated with policy violations Enforcement will be consistent and impartial, with the severity of the action corresponding directly to the seriousness of the breach.    
 
 
 *The end*
