@@ -4,6 +4,19 @@
 
 This project aims to strengthen network security and performance by preventing unwanted DNS activities, configuring VLANs to segment traffic, and implementing switch security features such as port security, DHCP snooping, and BPDU guard. These measures enhance protection against unauthorized access, malicious attacks, and network misuse while ensuring efficient and reliable communication within the LAN.  
 
+## Adrressing Table  
+
+```
+| Device | Interface / VLAN | IP Address     | Subnet Mask     |
+|---------|------------------|----------------|-----------------|
+| R1      | G0/0/1           | 192.168.10.1   | 255.255.255.0   |
+| R1      | Loopback 0       | 10.10.1.1      | 255.255.255.0   |
+| S1      | VLAN 10          | 192.168.10.201 | 255.255.255.0   |
+| S2      | VLAN 10          | 192.168.10.202 | 255.255.255.0   |
+| PC – A  | NIC (DHCP)       | DHCP           | 255.255.255.0   |
+| PC – B  | NIC (DHCP)       | DHCP           | 255.255.255.0   |
+```
+
 ## Objectives:  
 
 **Part 1: Configure the Network Devices**    
@@ -31,11 +44,11 @@ This project aims to strengthen network security and performance by preventing u
     Note: Make sure the switches are erased and have no startup configurations.
     
 **Required Resouces**  
-    - 1 Router (Cisco 1841). 
-    - 2 Switches (Cisco 2960 with IOS 12). 
-    - 2 PCs (Windows with a terminal emulation program). 
-    - Console cables to configure the Cisco IOS via the console ports. 
-    - Ethernet cables. 
+- 1 Router (Cisco 1841). 
+- 2 Switches (Cisco 2960 with IOS 12). 
+- 2 PCs (Windows with a terminal emulation program). 
+- Console cables to configure the Cisco IOS via the console ports. 
+- Ethernet cables. 
 
 ## Part 1: Configure the Network Devices
 **Step 1: Cable the network**
