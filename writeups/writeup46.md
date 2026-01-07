@@ -461,5 +461,5 @@ It can take up to 5 minutes for alerts to appear on the Microsoft Sentinel | Ove
 - You have the option of assigning a different severity level and status to an incident.  
 
 ## Conclusion.  
-I successfully completed Labs 08–11, setting up end-to-end Azure security and monitoring. I deployed the required resources, enabled Microsoft Defender for Servers Plan 2, configured Just-in-Time VM access, and onboarded Microsoft Sentinel with automation rules. I also tested the environment to confirm that alerts and incidents were generated and handled correctly. Overall, the labs were completed successfully and demonstrate strong capability in implementing cloud security controls.  
+I successfully completed all labs, setting up end-to-end Azure security and monitoring. I deployed the required resources, enabled Microsoft Defender for Servers Plan 2, configured Just-in-Time VM access, and onboarded Microsoft Sentinel with automation rules. I also tested the environment to confirm that alerts and incidents were generated and handled correctly. Overall, the labs were completed successfully and demonstrate strong capability in implementing cloud security controls.  
 
