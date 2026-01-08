@@ -6,7 +6,7 @@ You have been asked to install Azure Firewall. This will help your organization 
 - A virtual machine in each subnet.  
 - A custom route that ensures all outbound workload traffic from the workload subnet must use the firewall.  
 - Firewall Application rules that only allow outbound traffic to www.bing.com.  
-- Firewall Network rules that allow external DNS. 
+- Firewall Network rules that allow external DNS.  
 
 **Lab objectives**. 
 In this lab, you will complete the following exercise:  
@@ -19,8 +19,7 @@ Azure Firewall diagram.
 Lab files:  
 - **\Allfiles\Labs\08\template.json**
 
-Exercise 1: Deploy and test an Azure Firewall  
-Estimated timing: 40 minutes   
+Exercise 1: Deploy and test an Azure Firewall   
 
 For all the resources in this lab, we are using the East (US) region. Verify with your instructor this is the region to use for your class.  
 In this exercise, you will complete the following tasks:
@@ -30,7 +29,7 @@ In this exercise, you will complete the following tasks:
 - Task 4: Configure an application rule.
 - Task 5: Configure a network rule.
 - Task 6: Configure DNS servers.
-- Task 7: Test the firewall.
+- Task 7: Test the firewall.  
 
 ### Task 1: Use a template to deploy the lab environment.
 In this task, you will review and deploy the lab environment.  
@@ -181,5 +180,5 @@ Result: You have successfully configured and tested the Azure Firewall.
 
 
 
-
+**December 2025, 23**
 
