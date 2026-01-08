@@ -161,7 +161,7 @@ const writeups = [
     //{ title: "Writeup 43", description: "Evading antivirus and endpoint detection systems.", link: "https://github.com/Duncan-Maganu", markdown: "writeup43.md" },
     { title: "Azure Monitor, Microsoft Defender for cloud, Enable Just-In Time Access in VMs, Microsoft Sentinel", 
     description: "This writeup documents an end-to-end Azure security monitoring and incident response implementation using Azure Monitor, Log Analytics, Microsoft Defender for Cloud, Just-In-Time VM access, and Microsoft Sentinel, demonstrating centralized log collection, enhanced server protection, automated threat detection, and playbook-driven incident response aligned with AZ-500 Cloud Security best practices.",
-        link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/writeups/writeup44.md", markdown: "writeups/writeup45.md" },
+        link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/writeups/writeup44.md", markdown: "writeups/writeup44.md" },
     { title: "Azure Firewall", 
        description: "Deployed and tested an Azure Firewall using ARM templates, enforcing outbound traffic inspection through custom routing while restricting internet access via application and network rules to validate secure network segmentation in Azure.", 
        link: "https://github.com/Duncan-Maganga/Duncan-Maganga.github.io/blob/main/writeups/writeup45.md", markdown: "writeups/writeup45.md" },
