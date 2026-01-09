@@ -520,7 +520,7 @@ You have the option of assigning a different severity level and status to an inc
 Results: You have created an Microsoft Sentinel workspace, connected it to Azure Activity logs, created a playbook and custom alerts that are triggered in response to the removal of Just-in-time VM access policies, and verified that the configuration is valid.  
 
 
-**December 2025, 27**
+**December 25, 2025**
 
 
 

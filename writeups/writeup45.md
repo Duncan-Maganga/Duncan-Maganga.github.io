@@ -180,5 +180,5 @@ Result: You have successfully configured and tested the Azure Firewall.
 
 
 
-**December 2025, 23**
+**December 23, 2025**
 
