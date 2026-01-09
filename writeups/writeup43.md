@@ -85,3 +85,5 @@ Create an Azure virtual machine that hosts SQL Server 2019 on Windows Server 201
 
 ![sreenshot](../imagesw/images43/20.png).
 
+
+**December 30, 2025**
