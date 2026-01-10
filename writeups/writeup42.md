@@ -90,7 +90,7 @@ You should see an updated home page. It may take a minute for the home page to d
 If you do not see the updated page, refresh the browser.  
 Enable Application Insights for the wa57933872 Web App by using the new resource name wa57933872 and the laws-57933872 Log Analytics Workspace.  
 
-![sreenshot](../imagesw/images42/20.png).
+![sreenshot](../imagesw/images42/55.png).
 
 You may have to wait 1-2 minutes for Application Insights to fully enable.  
 Want to learn more? Review the documentation on enabling Application Insights for a Web App.  
