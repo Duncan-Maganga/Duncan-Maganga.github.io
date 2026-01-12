@@ -59,8 +59,6 @@ Create an Azure virtual machine for the web tier by using the values in the foll
 
 ![sreenshot](../imagesw/images43/12.png).
 
-![sreenshot](../imagesw/images43/13.png).
-
 ![sreenshot](../imagesw/images43/14.png).
 
 ![sreenshot](../imagesw/images43/15.png).
